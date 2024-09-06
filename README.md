@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AareonJackson
-- 👀 I’m interested in technology, blockchain development, and learning an assortment of programming languages.
-- 🌱 I’m currently learning html, css, and javascript. So I'm fresh to everything, but very motivated to learn so much more!
+- 👀 I’m interested in technology, blockchain development, and learning various programming languages.
+- 🌱 Very motivated to learn and expand my understanding.
 
 <!---
-AareonJackson/AareonJackson is a ✨ special individual that is hard-working and eager to learn new skills.
+AareonJackson/AareonJackson is a ✨ special individual who is hard-working and eager to learn new skills.
 --->
