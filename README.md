@@ -1,7 +1,45 @@
-- 👋 Hi, I’m @AareonJackson
-- 👀 I’m interested in technology, blockchain development, and learning various programming languages.
-- 🌱 Very motivated to learn and expand my understanding.
+# Hi there! I'm Aareon Jackson 👋
 
-<!---
-AareonJackson/AareonJackson is a ✨ special individual who is hard-working and eager to learn new skills.
---->
+### 🚀 Computer Science Student | Systems Programmer | Problem Solver
+
+Currently pursuing my Bachelor's in Computer Science at UNLV (graduating December 2025) with a passion for low-level programming and efficient algorithm design.
+
+## 🔧 Tech Stack
+
+**Languages & Tools:**
+```cpp
+const skills = {
+  languages: ["C++", "x86 Assembly", "Bash", "CSS", "HTML"],
+  environments: ["Linux", "Windows", "MacOS"],
+  editors: ["Visual Studio", "CLion", "Nano"],
+  debugging: ["GDB"],
+  other: ["OpenGL", "Git", "Valgrind", "Make"]
+};
+```
+
+**Core Competencies:**
+- 🔍 Data Structures & Algorithms
+- 🧠 Memory Management & Optimization
+- 📊 Statistical Computing
+- 🎨 Graphics Programming with OpenGL
+
+## 🔬 What I'm Working On
+
+- 🌟 **Performance Optimization**: Created OpenGL graphics with **40% better performance** than compiled alternatives
+- 🏗️ **Systems Programming**: Building robust data structures and algorithms in C++
+- 📈 **Mathematical Computing**: Implementing precision arithmetic and statistical analysis tools
+- 🌐 **Full-Stack Projects**: From inventory management systems to web development
+
+## 🎯 Current Focus
+
+- 🔍 **Seeking opportunities** in software development, systems programming, data analysis, and emerging tech roles
+- 📚 Deepening expertise in algorithms and data structures
+- 🌱 **Expanding my language toolkit**: Learning Java and Python in the near future
+- 🤝 Open to collaborations on interesting projects
+- 💡 Always learning something new in tech
+
+---
+
+*"Code is poetry written for machines, but it should be beautiful enough for humans to read."*
+
+**Currently open to internships, entry-level positions, and collaborative projects!** 🚀
