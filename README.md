@@ -9,11 +9,11 @@ Currently pursuing my Bachelor's in Computer Science at UNLV (graduating Decembe
 **Languages & Tools:**
 ```cpp
 const skills = {
-  languages: ["C++", "x86 Assembly", "Bash", "CSS", "HTML"],
+  languages: ["C++", "Java", "Python", "x86 Assembly", "Bash", "CSS", "HTML"],
   environments: ["Linux", "Windows", "MacOS"],
   editors: ["Visual Studio", "CLion", "Nano"],
   debugging: ["GDB"],
-  other: ["OpenGL", "Git", "Valgrind", "Make"]
+  other: ["OpenGL", "Git"]
 };
 ```
 
@@ -34,7 +34,7 @@ const skills = {
 
 - 🔍 **Seeking opportunities** in software development, systems programming, data analysis, and emerging tech roles
 - 📚 Deepening expertise in algorithms and data structures
-- 🌱 **Expanding my language toolkit**: Learning Java and Python in the near future
+- 🌱 **Expanding my language toolkit**: Improving my Java and Python in the near future with projects
 - 🤝 Open to collaborations on interesting projects
 - 💡 Always learning something new in tech
 
