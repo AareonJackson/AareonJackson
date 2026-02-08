@@ -2,7 +2,7 @@
 
 ### 🚀 Computer Science Student | Systems Programmer | Problem Solver
 
-Currently pursuing my Bachelor's in Computer Science at UNLV (graduating December 2025) with a passion for low-level programming and efficient algorithm design.
+Currently pursuing my Bachelor's in Computer Science at WGU with a passion for low-level programming and efficient algorithm design.
 
 ## 🔧 Tech Stack
 
@@ -13,7 +13,7 @@ const skills = {
   environments: ["Linux", "Windows", "MacOS"],
   editors: ["Visual Studio", "CLion", "Nano"],
   debugging: ["GDB"],
-  other: ["OpenGL", "Git"]
+  other: ["Git", "OpenCV", "Prompt Engineering"]
 };
 ```
 
@@ -21,14 +21,6 @@ const skills = {
 - 🔍 Data Structures & Algorithms
 - 🧠 Memory Management & Optimization
 - 📊 Statistical Computing
-- 🎨 Graphics Programming with OpenGL
-
-## 🔬 What I'm Working On
-
-- 🌟 **Performance Optimization**: Created OpenGL graphics with **40% better performance** than compiled alternatives
-- 🏗️ **Systems Programming**: Building robust data structures and algorithms in C++
-- 📈 **Mathematical Computing**: Implementing precision arithmetic and statistical analysis tools
-- 🌐 **Full-Stack Projects**: From inventory management systems to web development
 
 ## 🎯 Current Focus
 
