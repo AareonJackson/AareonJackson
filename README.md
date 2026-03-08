@@ -9,7 +9,7 @@ Currently pursuing my Bachelor's in Computer Science at WGU with a passion for l
 **Languages & Tools:**
 ```cpp
 const skills = {
-  languages: ["C++", "Java", "Python", "Javascript", "Bash", "CSS", "HTML"],
+  languages: ["C++", "Java", "Python", "Javascript", "Bash", "HTML/CSS"],
   environments: ["Linux", "Windows", "MacOS"],
   editors: ["Visual Studio", "CLion", "Nano"],
   debugging: ["GDB"],
