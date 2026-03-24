@@ -1,6 +1,6 @@
 # Hi there! I'm Aareon Jackson 👋
 
-### 🚀 Computer Science Student | Systems Programmer | Problem Solver
+### 🚀 Computer Science Student | Problem Solver
 
 Currently pursuing my Bachelor's in Computer Science at WGU with a passion for low-level programming and efficient algorithm design.
 
