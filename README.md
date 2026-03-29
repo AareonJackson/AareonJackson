@@ -24,7 +24,7 @@ const skills = {
 
 ## 🎯 Current Focus
 
-- 🔍 **Seeking opportunities** in software development, systems programming, data analysis, and emerging tech roles
+- 🔍 **Seeking opportunities** in software development, data analysis, and emerging tech roles
 - 📚 Deepening expertise in algorithms and data structures
 - 🌱 **Expanding my language toolkit**: Improving my Java and Python in the near future with projects
 - 🤝 Open to collaborations on interesting projects
