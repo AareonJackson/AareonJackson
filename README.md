@@ -1,6 +1,6 @@
 # Hi there! I'm Aareon Jackson 👋
 
-### 🚀 Computer Science Student | Problem Solver
+### 🚀 A Problem Solver
 
 Currently pursuing my Bachelor's in Computer Science at WGU with a passion for low-level programming and efficient algorithm design.
 
@@ -13,7 +13,7 @@ const skills = {
   environments: ["Linux", "Windows", "MacOS"],
   editors: ["Visual Studio", "CLion", "Nano"],
   debugging: ["GDB"],
-  other: ["Git", "OpenCV", "Prompt Engineering"]
+  other: ["Git", "OpenGL"]
 };
 ```
 
@@ -31,7 +31,5 @@ const skills = {
 - 💡 Always learning something new in tech
 
 ---
-
-*"Code is poetry written for machines, but it should be beautiful enough for humans to read."*
 
 **Currently open to internships, entry-level positions, and collaborative projects!** 🚀
