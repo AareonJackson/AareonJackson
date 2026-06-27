@@ -1,19 +1,15 @@
 # Hi there! I'm Aareon Jackson 👋
 
 ### 🚀 A Problem Solver
-
-Currently pursuing my Bachelor's in Computer Science at WGU with a passion for low-level programming and efficient algorithm design.
-
 ## 🔧 Tech Stack
 
 **Languages & Tools:**
 ```cpp
 const skills = {
-  languages: ["C++", "Java", "Python", "Javascript", "Bash", "HTML/CSS"],
+  languages: ["C++", "Java", "Python", "Javascript", "SQL", "HTML/CSS"],
+  build systems: ["CMake", "Maven"],
   environments: ["Linux", "Windows", "MacOS"],
-  editors: ["Visual Studio", "CLion", "Nano"],
-  debugging: ["GDB"],
-  other: ["Git", "OpenGL"]
+  other: ["Git", "OpenGL", "MySQL", "Spring Boot"]
 };
 ```
 
